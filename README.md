@@ -1,0 +1,2 @@
+# EGC-clase
+hola mundo
